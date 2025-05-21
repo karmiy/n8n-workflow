@@ -40,7 +40,7 @@
 
 N8N 节点里没有 Firecrawl，需要去社区找插件
 
--安装 Firecrawl
+- 安装 Firecrawl
 
 ![](imgs/2025-05-21-22-12-46.png)
 ![](imgs/2025-05-21-22-13-55.png)
